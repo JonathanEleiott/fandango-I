@@ -25,7 +25,8 @@ This conversation can go multiple ways. Keep the talk lean It's easy for a candi
 - Once city is selected, our system should display all the movies in that city
 - Once movie is selected, show the available show times
 - The user can then choose a showing at an affiliate movie theater and book their ticket
-- It should then pop up a screen to show seating arrangements that are available or not the ability to select multiple available seats
+- It should then pop up a screen to show seating arrangements that are available or not
+- It should have the ability to select multiple available seats
 
 #### Sample User Story
 
